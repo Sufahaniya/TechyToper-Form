@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin: 5%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#form{
+    margin-top: 5%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    width:50%;
+}
+
+#form h1{
+    margin-top: 1%;
+    color: green;
+
+}
+.from-group {
+    /* margin-top: 1%; */
+    display:block;
+    
+
+}
+
+
+#display-field{
+    
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    text-align: center;
+    box-sizing: border-box;
+    width:50%;
+}
+#display-field h1{
+    color: green;
+}
